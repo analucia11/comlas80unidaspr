@@ -1,0 +1,227 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+background-color: #cab5f2;
+}
+
+
+h1 {
+font-family: Clicker Script, cursive;
+font-size: 75px;
+
+}
+title{
+font-family: Clicker Script, cursive;
+font-size: 75px;
+}
+.intro {
+  font-family: Open Sans, serif;
+  font-size: 23px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.about {
+  font-family: Open Sans, serif;
+  font-size: 23px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.contact {
+  font-family: Open Sans, serif;
+  font-size: 23px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+ .mcs { 
+  max-width: 350px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:30px;
+  margin-top: 40px;
+   margin-bottom: 20px;
+}
+.help { 
+  max-width: 400px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:20px;
+  margin-top: 20px;
+}
+.artesanos { 
+  max-width: 500px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:20px;
+  margin-top: 20px;
+}
+.tuvales { 
+  max-width: 500px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:20px;
+  margin-top: 20px;
+}
+
+.tallersalud2 { 
+  max-width: 400px;
+  min-width: 300px;
+max-height: 450px;
+  min-height: 300px;
+   margin-left:40px;
+  margin-top: 20px;
+}
+
+.caminata { 
+  max-width: 400px;
+  min-width: 300px;
+  max-height: 350px;
+  min-height: 300px;
+   margin-left:40px;
+  margin-top: 20px;
+}
+.composta { 
+  max-width: 400px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:40px;
+  margin-top: 20px;
+}
+.tallersalud { 
+  max-width: 450px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:40px;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+.costura { 
+  max-width: 400px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.costureras { 
+  max-width: 400px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.escuela { 
+  max-width: 400px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.kokedama2 { 
+  max-width: 350px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.kokedama { 
+  max-width: 450px;
+  min-width: 300px;
+max-height: 350px;
+  min-height: 300px;
+   margin-left:10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.unidos { 
+   max-width: 550px;
+    min-width: 300px;
+  max-height: 400px;
+    min-height: 300px;
+    margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 650px;
+}
+
+*{
+  text-decoration: none;
+}
+.navbar{
+  background: #fffcb8; 
+  font-family: Open Sans; 
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navdiv{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between;
+}
+
+li{
+  list-style: none; 
+  display: inline-block;
+}
+
+li a{
+  color: black; 
+  font-size: 26px; 
+  font-weight: bold; 
+  margin-right: 25px;
+}
+
+nav a:hover {
+  background-color: #e6e04b; 
+  filter: blur(1px);
+ padding: 15px;
+}
+
+.gif {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.footerbar {
+color:black;
+  background-color:#fffcb8;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  padding: 30px;
+}
+
+.IG {
+height: 50px;
+width: 50px;
+}
+
+.FB {
+height: 50px;
+width: 50px;
+}
+
+.fb-page {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
